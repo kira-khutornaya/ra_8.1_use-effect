@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ra_8.1_use-effect/static/css/main.fa381489.chunk.css",
+    "main.js": "/ra_8.1_use-effect/static/js/main.89149a7b.chunk.js",
+    "main.js.map": "/ra_8.1_use-effect/static/js/main.89149a7b.chunk.js.map",
+    "runtime-main.js": "/ra_8.1_use-effect/static/js/runtime-main.a0c97103.js",
+    "runtime-main.js.map": "/ra_8.1_use-effect/static/js/runtime-main.a0c97103.js.map",
+    "static/css/2.1f20ef0c.chunk.css": "/ra_8.1_use-effect/static/css/2.1f20ef0c.chunk.css",
+    "static/js/2.e6f65933.chunk.js": "/ra_8.1_use-effect/static/js/2.e6f65933.chunk.js",
+    "static/js/2.e6f65933.chunk.js.map": "/ra_8.1_use-effect/static/js/2.e6f65933.chunk.js.map",
+    "static/js/3.edc2a0ea.chunk.js": "/ra_8.1_use-effect/static/js/3.edc2a0ea.chunk.js",
+    "static/js/3.edc2a0ea.chunk.js.map": "/ra_8.1_use-effect/static/js/3.edc2a0ea.chunk.js.map",
+    "index.html": "/ra_8.1_use-effect/index.html",
+    "static/css/2.1f20ef0c.chunk.css.map": "/ra_8.1_use-effect/static/css/2.1f20ef0c.chunk.css.map",
+    "static/css/main.fa381489.chunk.css.map": "/ra_8.1_use-effect/static/css/main.fa381489.chunk.css.map",
+    "static/js/2.e6f65933.chunk.js.LICENSE.txt": "/ra_8.1_use-effect/static/js/2.e6f65933.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/ra_8.1_use-effect/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0c97103.js",
+    "static/css/2.1f20ef0c.chunk.css",
+    "static/js/2.e6f65933.chunk.js",
+    "static/css/main.fa381489.chunk.css",
+    "static/js/main.89149a7b.chunk.js"
+  ]
+}
